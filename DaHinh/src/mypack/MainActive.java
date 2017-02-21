@@ -10,7 +10,7 @@ public class MainActive {
 		s.mailCheck();
 		System.out.println("\n Call mailCheck using Employee reference--");
 		e.mailCheck();
-
+		System.out.println("demo!");
 	}
 
 }
